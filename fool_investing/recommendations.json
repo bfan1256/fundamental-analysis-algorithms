@@ -1,0 +1,978 @@
+[
+    {
+        "ticker": "SHOP",
+        "date_recommended": "04/02/2020"
+    },
+    {
+        "ticker": "ZM",
+        "date_recommended": "03/19/2020"
+    },
+    {
+        "ticker": "LK",
+        "date_recommended": "03/05/2020"
+    },
+    {
+        "ticker": "DXCM",
+        "date_recommended": "02/20/2020"
+    },
+    {
+        "ticker": "NVTA",
+        "date_recommended": "02/06/2020"
+    },
+    {
+        "ticker": "NICE",
+        "date_recommended": "01/16/2020"
+    },
+    {
+        "ticker": "TSLA",
+        "date_recommended": "01/02/2020"
+    },
+    {
+        "ticker": "ACN",
+        "date_recommended": "12/19/2019"
+    },
+    {
+        "ticker": "HUBS",
+        "date_recommended": "12/05/2019"
+    },
+    {
+        "ticker": "NFLX",
+        "date_recommended": "11/21/2019"
+    },
+    {
+        "ticker": "TTD",
+        "date_recommended": "11/07/2019"
+    },
+    {
+        "ticker": "NBIX",
+        "date_recommended": "10/17/2019"
+    },
+    {
+        "ticker": "ZM",
+        "date_recommended": "10/03/2019"
+    },
+    {
+        "ticker": "SEDG",
+        "date_recommended": "09/19/2019"
+    },
+    {
+        "ticker": "WORK",
+        "date_recommended": "09/05/2019"
+    },
+    {
+        "ticker": "JKHY",
+        "date_recommended": "08/15/2019"
+    },
+    {
+        "ticker": "CWBHF",
+        "date_recommended": "08/01/2019"
+    },
+    {
+        "ticker": "ZNGA",
+        "date_recommended": "07/18/2019"
+    },
+    {
+        "ticker": "ZM",
+        "date_recommended": "07/03/2019"
+    },
+    {
+        "ticker": "WM",
+        "date_recommended": "06/20/2019"
+    },
+    {
+        "ticker": "HQY",
+        "date_recommended": "06/06/2019"
+    },
+    {
+        "ticker": "SNPS",
+        "date_recommended": "05/16/2019"
+    },
+    {
+        "ticker": "WIX",
+        "date_recommended": "05/02/2019"
+    },
+    {
+        "ticker": "ZNGA",
+        "date_recommended": "04/18/2019"
+    },
+    {
+        "ticker": "OLLI",
+        "date_recommended": "04/04/2019"
+    },
+    {
+        "ticker": "HRC",
+        "date_recommended": "03/21/2019"
+    },
+    {
+        "ticker": "TWLO",
+        "date_recommended": "03/07/2019"
+    },
+    {
+        "ticker": "NTDOY",
+        "date_recommended": "02/21/2019"
+    },
+    {
+        "ticker": "APPN",
+        "date_recommended": "02/07/2019"
+    },
+    {
+        "ticker": "HA",
+        "date_recommended": "01/17/2019"
+    },
+    {
+        "ticker": "TWLO",
+        "date_recommended": "01/03/2019"
+    },
+    {
+        "ticker": "TLK",
+        "date_recommended": "12/13/2018"
+    },
+    {
+        "ticker": "MA",
+        "date_recommended": "11/29/2018"
+    },
+    {
+        "ticker": "ZBRA",
+        "date_recommended": "11/15/2018"
+    },
+    {
+        "ticker": "ZS",
+        "date_recommended": "11/01/2018"
+    },
+    {
+        "ticker": "AMZN",
+        "date_recommended": "10/18/2018"
+    },
+    {
+        "ticker": "SQ",
+        "date_recommended": "10/04/2018"
+    },
+    {
+        "ticker": "UNP",
+        "date_recommended": "09/20/2018"
+    },
+    {
+        "ticker": "SFIX",
+        "date_recommended": "09/06/2018"
+    },
+    {
+        "ticker": "ALK",
+        "date_recommended": "08/16/2018"
+    },
+    {
+        "ticker": "ANET",
+        "date_recommended": "08/02/2018"
+    },
+    {
+        "ticker": "BB",
+        "date_recommended": "07/19/2018"
+    },
+    {
+        "ticker": "SFIX",
+        "date_recommended": "07/05/2018"
+    },
+    {
+        "ticker": "AMGN",
+        "date_recommended": "06/21/2018"
+    },
+    {
+        "ticker": "WIX",
+        "date_recommended": "06/07/2018"
+    },
+    {
+        "ticker": "NEWR",
+        "date_recommended": "05/17/2018"
+    },
+    {
+        "ticker": "SHOP",
+        "date_recommended": "05/03/2018"
+    },
+    {
+        "ticker": "SHOP",
+        "date_recommended": "04/20/2018"
+    },
+    {
+        "ticker": "OKTA",
+        "date_recommended": "04/20/2018"
+    },
+    {
+        "ticker": "MKL",
+        "date_recommended": "03/15/2018"
+    },
+    {
+        "ticker": "CRUS",
+        "date_recommended": "03/15/2018"
+    },
+    {
+        "ticker": "VRNS",
+        "date_recommended": "02/16/2018"
+    },
+    {
+        "ticker": "FICO",
+        "date_recommended": "02/16/2018"
+    },
+    {
+        "ticker": "PAYC",
+        "date_recommended": "01/19/2018"
+    },
+    {
+        "ticker": "OKTA",
+        "date_recommended": "01/19/2018"
+    },
+    {
+        "ticker": "APPN",
+        "date_recommended": "12/15/2017"
+    },
+    {
+        "ticker": "MTN",
+        "date_recommended": "12/15/2017"
+    },
+    {
+        "ticker": "TLND",
+        "date_recommended": "11/17/2017"
+    },
+    {
+        "ticker": "CME",
+        "date_recommended": "11/17/2017"
+    },
+    {
+        "ticker": "TTD",
+        "date_recommended": "10/20/2017"
+    },
+    {
+        "ticker": "HCA",
+        "date_recommended": "10/20/2017"
+    },
+    {
+        "ticker": "ANET",
+        "date_recommended": "09/15/2017"
+    },
+    {
+        "ticker": "MMM",
+        "date_recommended": "09/15/2017"
+    },
+    {
+        "ticker": "LOPE",
+        "date_recommended": "08/18/2017"
+    },
+    {
+        "ticker": "JD",
+        "date_recommended": "08/18/2017"
+    },
+    {
+        "ticker": "IRBT",
+        "date_recommended": "07/21/2017"
+    },
+    {
+        "ticker": "CGNX",
+        "date_recommended": "07/21/2017"
+    },
+    {
+        "ticker": "PAYC",
+        "date_recommended": "06/16/2017"
+    },
+    {
+        "ticker": "TXT",
+        "date_recommended": "06/16/2017"
+    },
+    {
+        "ticker": "CMG",
+        "date_recommended": "05/19/2017"
+    },
+    {
+        "ticker": "ODFL",
+        "date_recommended": "05/19/2017"
+    },
+    {
+        "ticker": "MAR",
+        "date_recommended": "04/21/2017"
+    },
+    {
+        "ticker": "FTNT",
+        "date_recommended": "04/21/2017"
+    },
+    {
+        "ticker": "WAL",
+        "date_recommended": "03/17/2017"
+    },
+    {
+        "ticker": "BDX",
+        "date_recommended": "03/17/2017"
+    },
+    {
+        "ticker": "BWA",
+        "date_recommended": "02/17/2017"
+    },
+    {
+        "ticker": "TSCO",
+        "date_recommended": "02/17/2017"
+    },
+    {
+        "ticker": "ROL",
+        "date_recommended": "01/20/2017"
+    },
+    {
+        "ticker": "NVDA",
+        "date_recommended": "01/20/2017"
+    },
+    {
+        "ticker": "MA",
+        "date_recommended": "12/16/2016"
+    },
+    {
+        "ticker": "MASI",
+        "date_recommended": "12/16/2016"
+    },
+    {
+        "ticker": "MKL",
+        "date_recommended": "11/18/2016"
+    },
+    {
+        "ticker": "JBLU",
+        "date_recommended": "11/18/2016"
+    },
+    {
+        "ticker": "NKE",
+        "date_recommended": "10/21/2016"
+    },
+    {
+        "ticker": "PAC",
+        "date_recommended": "10/21/2016"
+    },
+    {
+        "ticker": "SBUX",
+        "date_recommended": "09/16/2016"
+    },
+    {
+        "ticker": "ALKS",
+        "date_recommended": "09/16/2016"
+    },
+    {
+        "ticker": "FB",
+        "date_recommended": "08/19/2016"
+    },
+    {
+        "ticker": "MTCH",
+        "date_recommended": "08/19/2016"
+    },
+    {
+        "ticker": "SHOP",
+        "date_recommended": "07/15/2016"
+    },
+    {
+        "ticker": "TMUS",
+        "date_recommended": "07/15/2016"
+    },
+    {
+        "ticker": "SIVB",
+        "date_recommended": "06/17/2016"
+    },
+    {
+        "ticker": "ECL",
+        "date_recommended": "06/17/2016"
+    },
+    {
+        "ticker": "BRK.B",
+        "date_recommended": "05/20/2016"
+    },
+    {
+        "ticker": "STMP",
+        "date_recommended": "05/20/2016"
+    },
+    {
+        "ticker": "MTCH",
+        "date_recommended": "04/15/2016"
+    },
+    {
+        "ticker": "WDAY",
+        "date_recommended": "03/18/2016"
+    },
+    {
+        "ticker": "ILMN",
+        "date_recommended": "03/18/2016"
+    },
+    {
+        "ticker": "GOOG",
+        "date_recommended": "02/19/2016"
+    },
+    {
+        "ticker": "NTUS",
+        "date_recommended": "02/19/2016"
+    },
+    {
+        "ticker": "CRTO",
+        "date_recommended": "01/22/2016"
+    },
+    {
+        "ticker": "TXRH",
+        "date_recommended": "01/22/2016"
+    },
+    {
+        "ticker": "KMI",
+        "date_recommended": "12/18/2015"
+    },
+    {
+        "ticker": "NYT",
+        "date_recommended": "12/18/2015"
+    },
+    {
+        "ticker": "AMG",
+        "date_recommended": "11/20/2015"
+    },
+    {
+        "ticker": "BUD",
+        "date_recommended": "11/20/2015"
+    },
+    {
+        "ticker": "ROP",
+        "date_recommended": "10/16/2015"
+    },
+    {
+        "ticker": "DBI",
+        "date_recommended": "10/16/2015"
+    },
+    {
+        "ticker": "MAR",
+        "date_recommended": "09/18/2015"
+    },
+    {
+        "ticker": "NVO",
+        "date_recommended": "09/18/2015"
+    },
+    {
+        "ticker": "MYL",
+        "date_recommended": "08/21/2015"
+    },
+    {
+        "ticker": "UHAL",
+        "date_recommended": "07/17/2015"
+    },
+    {
+        "ticker": "CMG",
+        "date_recommended": "06/19/2015"
+    },
+    {
+        "ticker": "FEYE",
+        "date_recommended": "06/19/2015"
+    },
+    {
+        "ticker": "NDAQ",
+        "date_recommended": "05/15/2015"
+    },
+    {
+        "ticker": "SPB JEF",
+        "date_recommended": "04/17/2015"
+    },
+    {
+        "ticker": "CASY",
+        "date_recommended": "04/17/2015"
+    },
+    {
+        "ticker": "RH",
+        "date_recommended": "03/20/2015"
+    },
+    {
+        "ticker": "FB",
+        "date_recommended": "02/20/2015"
+    },
+    {
+        "ticker": "FEYE",
+        "date_recommended": "02/20/2015"
+    },
+    {
+        "ticker": "XPO",
+        "date_recommended": "01/16/2015"
+    },
+    {
+        "ticker": "RPM",
+        "date_recommended": "01/16/2015"
+    },
+    {
+        "ticker": "IBKR",
+        "date_recommended": "12/19/2014"
+    },
+    {
+        "ticker": "ATVI",
+        "date_recommended": "12/19/2014"
+    },
+    {
+        "ticker": "NCR",
+        "date_recommended": "11/21/2014"
+    },
+    {
+        "ticker": "MKL",
+        "date_recommended": "10/17/2014"
+    },
+    {
+        "ticker": "MKC",
+        "date_recommended": "10/17/2014"
+    },
+    {
+        "ticker": "CTSH",
+        "date_recommended": "09/19/2014"
+    },
+    {
+        "ticker": "JWN",
+        "date_recommended": "09/19/2014"
+    },
+    {
+        "ticker": "BKNG",
+        "date_recommended": "08/15/2014"
+    },
+    {
+        "ticker": "SWIR",
+        "date_recommended": "08/15/2014"
+    },
+    {
+        "ticker": "CRTO",
+        "date_recommended": "07/18/2014"
+    },
+    {
+        "ticker": "IDXX",
+        "date_recommended": "07/18/2014"
+    },
+    {
+        "ticker": "SHW",
+        "date_recommended": "06/20/2014"
+    },
+    {
+        "ticker": "CGNX",
+        "date_recommended": "06/20/2014"
+    },
+    {
+        "ticker": "LGF.A LGF.B",
+        "date_recommended": "05/16/2014"
+    },
+    {
+        "ticker": "CLB",
+        "date_recommended": "04/17/2014"
+    },
+    {
+        "ticker": "CRI",
+        "date_recommended": "04/17/2014"
+    },
+    {
+        "ticker": "LFUS",
+        "date_recommended": "03/21/2014"
+    },
+    {
+        "ticker": "CVS",
+        "date_recommended": "02/21/2014"
+    },
+    {
+        "ticker": "SPB JEF",
+        "date_recommended": "01/17/2014"
+    },
+    {
+        "ticker": "CBOE",
+        "date_recommended": "01/17/2014"
+    },
+    {
+        "ticker": "H",
+        "date_recommended": "10/18/2013"
+    },
+    {
+        "ticker": "UA UAA",
+        "date_recommended": "09/20/2013"
+    },
+    {
+        "ticker": "SWIR",
+        "date_recommended": "09/20/2013"
+    },
+    {
+        "ticker": "TXRH",
+        "date_recommended": "08/16/2013"
+    },
+    {
+        "ticker": "MA",
+        "date_recommended": "06/21/2013"
+    },
+    {
+        "ticker": "NFLX",
+        "date_recommended": "06/21/2013"
+    },
+    {
+        "ticker": "MTN",
+        "date_recommended": "05/17/2013"
+    },
+    {
+        "ticker": "MA",
+        "date_recommended": "04/19/2013"
+    },
+    {
+        "ticker": "QGEN",
+        "date_recommended": "04/19/2013"
+    },
+    {
+        "ticker": "IT",
+        "date_recommended": "03/15/2013"
+    },
+    {
+        "ticker": "KMX",
+        "date_recommended": "03/15/2013"
+    },
+    {
+        "ticker": "CMG",
+        "date_recommended": "02/15/2013"
+    },
+    {
+        "ticker": "WSM",
+        "date_recommended": "12/21/2012"
+    },
+    {
+        "ticker": "TSLA",
+        "date_recommended": "11/16/2012"
+    },
+    {
+        "ticker": "INTU",
+        "date_recommended": "11/16/2012"
+    },
+    {
+        "ticker": "WAB",
+        "date_recommended": "10/19/2012"
+    },
+    {
+        "ticker": "BJRI",
+        "date_recommended": "10/19/2012"
+    },
+    {
+        "ticker": "DAR",
+        "date_recommended": "09/21/2012"
+    },
+    {
+        "ticker": "BKNG",
+        "date_recommended": "08/17/2012"
+    },
+    {
+        "ticker": "KMI",
+        "date_recommended": "08/17/2012"
+    },
+    {
+        "ticker": "GOOGL GOOG",
+        "date_recommended": "07/20/2012"
+    },
+    {
+        "ticker": "TDG",
+        "date_recommended": "07/20/2012"
+    },
+    {
+        "ticker": "DDD",
+        "date_recommended": "06/15/2012"
+    },
+    {
+        "ticker": "RHI",
+        "date_recommended": "05/16/2012"
+    },
+    {
+        "ticker": "LKQ",
+        "date_recommended": "05/16/2012"
+    },
+    {
+        "ticker": "HEI",
+        "date_recommended": "04/20/2012"
+    },
+    {
+        "ticker": "CLNE",
+        "date_recommended": "03/16/2012"
+    },
+    {
+        "ticker": "ULTA",
+        "date_recommended": "01/20/2012"
+    },
+    {
+        "ticker": "DDD",
+        "date_recommended": "01/20/2012"
+    },
+    {
+        "ticker": "OII",
+        "date_recommended": "11/18/2011"
+    },
+    {
+        "ticker": "SBUX",
+        "date_recommended": "11/18/2011"
+    },
+    {
+        "ticker": "PEGA",
+        "date_recommended": "10/21/2011"
+    },
+    {
+        "ticker": "WSM",
+        "date_recommended": "09/16/2011"
+    },
+    {
+        "ticker": "CMI",
+        "date_recommended": "09/16/2011"
+    },
+    {
+        "ticker": "GLW",
+        "date_recommended": "08/19/2011"
+    },
+    {
+        "ticker": "BCPC",
+        "date_recommended": "07/15/2011"
+    },
+    {
+        "ticker": "AAPL",
+        "date_recommended": "06/17/2011"
+    },
+    {
+        "ticker": "WB SINA",
+        "date_recommended": "04/15/2011"
+    },
+    {
+        "ticker": "IIVI",
+        "date_recommended": "03/18/2011"
+    },
+    {
+        "ticker": "TNC",
+        "date_recommended": "01/21/2011"
+    },
+    {
+        "ticker": "CGNX",
+        "date_recommended": "01/21/2011"
+    },
+    {
+        "ticker": "AMZN",
+        "date_recommended": "12/17/2010"
+    },
+    {
+        "ticker": "WSO",
+        "date_recommended": "11/19/2010"
+    },
+    {
+        "ticker": "GILD",
+        "date_recommended": "09/17/2010"
+    },
+    {
+        "ticker": "DISCK",
+        "date_recommended": "08/20/2010"
+    },
+    {
+        "ticker": "NKE",
+        "date_recommended": "07/16/2010"
+    },
+    {
+        "ticker": "BKNG",
+        "date_recommended": "06/18/2010"
+    },
+    {
+        "ticker": "SAM",
+        "date_recommended": "05/21/2010"
+    },
+    {
+        "ticker": "DISCK",
+        "date_recommended": "03/19/2010"
+    },
+    {
+        "ticker": "NUE",
+        "date_recommended": "03/19/2010"
+    },
+    {
+        "ticker": "NVDA",
+        "date_recommended": "12/18/2009"
+    },
+    {
+        "ticker": "AFL",
+        "date_recommended": "11/20/2009"
+    },
+    {
+        "ticker": "HAS",
+        "date_recommended": "10/16/2009"
+    },
+    {
+        "ticker": "DASTY",
+        "date_recommended": "09/18/2009"
+    },
+    {
+        "ticker": "ADBE",
+        "date_recommended": "08/21/2009"
+    },
+    {
+        "ticker": "IBKR",
+        "date_recommended": "06/19/2009"
+    },
+    {
+        "ticker": "BRK.B",
+        "date_recommended": "05/15/2009"
+    },
+    {
+        "ticker": "MCK",
+        "date_recommended": "02/20/2009"
+    },
+    {
+        "ticker": "NATI",
+        "date_recommended": "01/16/2009"
+    },
+    {
+        "ticker": "CTAS",
+        "date_recommended": "12/19/2008"
+    },
+    {
+        "ticker": "DIS",
+        "date_recommended": "12/19/2008"
+    },
+    {
+        "ticker": "NATI",
+        "date_recommended": "10/17/2008"
+    },
+    {
+        "ticker": "ATVI",
+        "date_recommended": "09/19/2008"
+    },
+    {
+        "ticker": "ILMN",
+        "date_recommended": "07/18/2008"
+    },
+    {
+        "ticker": "AAPL",
+        "date_recommended": "06/20/2008"
+    },
+    {
+        "ticker": "SHW",
+        "date_recommended": "03/20/2008"
+    },
+    {
+        "ticker": "CNI",
+        "date_recommended": "03/20/2008"
+    },
+    {
+        "ticker": "AAPL",
+        "date_recommended": "01/18/2008"
+    },
+    {
+        "ticker": "NFLX",
+        "date_recommended": "06/15/2007"
+    },
+    {
+        "ticker": "BRK.B",
+        "date_recommended": "04/20/2007"
+    },
+    {
+        "ticker": "MINI",
+        "date_recommended": "04/20/2007"
+    },
+    {
+        "ticker": "MTH",
+        "date_recommended": "03/16/2007"
+    },
+    {
+        "ticker": "NTGR ARLO",
+        "date_recommended": "03/16/2007"
+    },
+    {
+        "ticker": "FDX",
+        "date_recommended": "12/15/2006"
+    },
+    {
+        "ticker": "NFLX",
+        "date_recommended": "09/15/2006"
+    },
+    {
+        "ticker": "AFL",
+        "date_recommended": "06/16/2006"
+    },
+    {
+        "ticker": "NFLX",
+        "date_recommended": "06/16/2006"
+    },
+    {
+        "ticker": "SBUX",
+        "date_recommended": "02/17/2006"
+    },
+    {
+        "ticker": "SINA WB",
+        "date_recommended": "11/18/2005"
+    },
+    {
+        "ticker": "NVDA",
+        "date_recommended": "04/15/2005"
+    },
+    {
+        "ticker": "SAFT",
+        "date_recommended": "02/18/2005"
+    },
+    {
+        "ticker": "SLAB",
+        "date_recommended": "01/21/2005"
+    },
+    {
+        "ticker": "NFLX",
+        "date_recommended": "12/17/2004"
+    },
+    {
+        "ticker": "NFLX",
+        "date_recommended": "10/01/2004"
+    },
+    {
+        "ticker": "DIS",
+        "date_recommended": "08/20/2004"
+    },
+    {
+        "ticker": "SINA WB",
+        "date_recommended": "07/16/2004"
+    },
+    {
+        "ticker": "UNH",
+        "date_recommended": "05/21/2004"
+    },
+    {
+        "ticker": "BKNG",
+        "date_recommended": "05/21/2004"
+    },
+    {
+        "ticker": "BAMXF",
+        "date_recommended": "04/16/2004"
+    },
+    {
+        "ticker": "DIS",
+        "date_recommended": "07/11/2003"
+    },
+    {
+        "ticker": "HAS",
+        "date_recommended": "04/11/2003"
+    },
+    {
+        "ticker": "DIS",
+        "date_recommended": "03/07/2003"
+    },
+    {
+        "ticker": "ATVI",
+        "date_recommended": "02/07/2003"
+    },
+    {
+        "ticker": "BWA",
+        "date_recommended": "01/10/2003"
+    },
+    {
+        "ticker": "FDX",
+        "date_recommended": "01/10/2003"
+    },
+    {
+        "ticker": "UNH",
+        "date_recommended": "12/13/2002"
+    },
+    {
+        "ticker": "DIS",
+        "date_recommended": "11/08/2002"
+    },
+    {
+        "ticker": "AMZN",
+        "date_recommended": "09/06/2002"
+    },
+    {
+        "ticker": "ATVI",
+        "date_recommended": "08/09/2002"
+    },
+    {
+        "ticker": "DIS",
+        "date_recommended": "06/07/2002"
+    },
+    {
+        "ticker": "PYPL EBAY",
+        "date_recommended": "05/10/2002"
+    },
+    {
+        "ticker": "COST",
+        "date_recommended": "04/12/2002"
+    }
+]
